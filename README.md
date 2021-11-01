@@ -1,6 +1,16 @@
 # Kickstarter_Analysis
 Kickstarter data analysis to find trends.
 ===
+## Layout
+Kickstarter_Challenge.xlsx  
+
+Resources (folder)  
+
+>Outcomes_vs_Goals.png  
+>
+>Theater_Outcomes_vs_Launch.png  
+>
+===
 ## Project Overview
 ### Purpose
 This project's objective was to continue building and reaffirming my skill set with Microsoft Excel.
