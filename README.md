@@ -10,7 +10,7 @@ Resources (folder)
 >
 >Theater_Outcomes_vs_Launch.png  
 >
-===
+
 ## Project Overview
 ### Purpose
 This project's objective was to continue building and reaffirming my skill set with Microsoft Excel.
